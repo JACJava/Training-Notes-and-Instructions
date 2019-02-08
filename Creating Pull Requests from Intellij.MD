@@ -16,8 +16,14 @@
 
 8.  Back in Intellij, select Branch menu from bottom of menu
 
-9.  Under Remote branches, select the remote branch
+9.  Under Remote branches, select the remote branch that was just "pulled"
 
 10.  Click on Delete.
+
+11.  Under Local branches, select Master
+
+12.  Click Checkout with rebase (to bring all those changes back into the local master)
+
+13.  Then, delete local branch that was just "pulled"
 
 
