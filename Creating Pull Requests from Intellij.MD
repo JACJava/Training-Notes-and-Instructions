@@ -13,3 +13,11 @@
 6.  Review for conflicts, etc.
 
 7.  Click on Merge Pull Request
+
+8.  Back in Intellij, select Branch menu from bottom of menu
+
+9.  Under Remote branches, select the remote branch
+
+10.  Click on Delete.
+
+
