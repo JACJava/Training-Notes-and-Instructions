@@ -4,6 +4,8 @@
 
 ## 1.  Open the project file in IntelliJ:  File->open-><select project>
    
+   
+   
 ## 2.  Set Version Control against the project:  VCS->Import into Version Control->Create Git Repository 
     
     Select directory where the new Git repository will be created:  <allow default>       c:\users\...\ProjectName\src\com\pluralsight\ProjectName
