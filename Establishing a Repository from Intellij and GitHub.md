@@ -1,12 +1,13 @@
 
 
-# Hello world
+## Establishing a Repository from Intellij and GitHub 
 
-## 1.  Open the project file in IntelliJ:  File->open-> (select project)
+### 1.  Open the project file in IntelliJ:  File->open-> (select project)
    
-## 2.  Set Version Control against the project:  VCS->Import into Version Control->Create Git Repository 
+### 2.  Set Version Control against the project:  VCS->Import into Version Control->Create Git Repository 
     
-    Select directory where the new Git repository will be created:  <allow default>       c:\users\...\ProjectName\src\com\pluralsight\ProjectName
+###    Select directory where the new Git repository will be created:  (allow default) 
+###        (e.g.) c:\users\...\ProjectName\src\com\pluralsight\ProjectName
     
 3.  Bottom frame will show Git: master as the local branch
 
