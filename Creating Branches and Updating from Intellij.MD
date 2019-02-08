@@ -3,21 +3,27 @@
 
 1.  Open the project file in IntelliJ:  File->open-> (select project)
    
-2.  VCS->Git->Branches
+2.  Create a branch:  VCS->Git->Branches
 
-3.  On Git Branch Menu, +New Branch
+3.  On Git Branch Menu, click on +New Branch
 
-4.  Enter name
+4.  Enter branch name
 
-5.  Bottom of frame will show branch name
+5.  Bottom of frame will show new branch name in use
 
 6.  Make coding changes to the branch
 
-7.  Commit changes in Intellij VCS->Commit
+7.  Commit changes in Intellij: VCS->Commit
 
 8.  Add a commit message
 
 9.  Click "commit"
+
+10.  Push changes to remote repository on GitHub: VCS->Git->Push
+
+11.  Confirm branch is on Github
+
+
 
 
 
