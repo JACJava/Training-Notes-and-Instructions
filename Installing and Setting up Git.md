@@ -16,9 +16,10 @@
 
 8.  Message pops up to install Xcode
 
-9.  Install Xcode Developer Tools from the AppStore (takes a looong time)
+9.  Click install (don't click on get Xcode)
 
+10.  Alternatively, install from command line:  xcode-select --install
 
+11.  Will pop up the same message box, click on install
 
-
-file->new from version control
+12.  Verify install:  xcode-select -p
