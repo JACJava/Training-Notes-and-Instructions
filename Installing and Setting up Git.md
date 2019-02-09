@@ -16,7 +16,7 @@
 
 8.  Message pops up to install Xcode
 
-9.  Install Xcode Developer Tools from the AppStore
+9.  Install Xcode Developer Tools from the AppStore (takes a looong time)
 
 
 
