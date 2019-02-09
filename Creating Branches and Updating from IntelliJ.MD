@@ -1,5 +1,5 @@
 
-## Creating Branches and Updating from Intellij
+## Creating Branches and Updating from IntelliJ
 
 1.  Open the project file in IntelliJ:  File->open-> (select project)
    
@@ -13,7 +13,7 @@
 
 6.  Make coding changes to the branch
 
-7.  Commit changes in Intellij: VCS->Commit
+7.  Commit changes in IntelliJ: VCS->Commit
 
 8.  Add a commit message
 
