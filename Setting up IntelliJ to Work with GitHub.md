@@ -14,27 +14,24 @@
 
 7.  Message "Test Successful" appears
 
-9.  Click "Apply" then "Ok"
+8.  Click "Apply" then "Ok"
 
-10.  Enable Git:  IntelliJ->Preferences
+9.  Enable Git:  IntelliJ->Preferences
 
-11.  Version Control->Git
+10.  Version Control->Git
 
-12.  Once xcode command line is installed, click Test -- should received success message.
+11.  Once xcode command line is installed, click Test -- should received success message.
 
-13.  Click "Ok"
+12.  Click "Ok"
 
-14.  Open a file from GitHub:  File->New->Project from Version Control->Git
+13.  Open a file from GitHub:  File->New->Project from Version Control->Git
 
-15.  In the URL box, select the GitHub Repository (e.g. "git@github.com:JACJava/HelloWorld.git
+14.  In the URL box, select the GitHub Repository (e.g. "git@github.com:JACJava/HelloWorld.git
 
-16.  Directory will be filled in with "/Users/juliejava/ideaProjects/HelloWorld
+15.  Directory will be filled in with "/Users/juliejava/ideaProjects/HelloWorld
 
-17.  Click "Clone"
+16.  Click "Clone"
 
-18.  Message pops up about SSH key
+17.  Message pops up about SSH key
 
-
-
-file->new from version control
 
