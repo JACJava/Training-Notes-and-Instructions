@@ -1,4 +1,4 @@
-## Creating Pull Requests from Intellij
+## Creating Pull Requests from IntelliJ
 
 1.  Open the project file in IntelliJ:  File->open-> (select project)
    
@@ -14,7 +14,7 @@
 
 7.  Click on Merge Pull Request
 
-8.  Back in Intellij, select Branch menu from bottom of menu
+8.  Back in IntelliJ, select Branch menu from bottom of menu
 
 9.  Under Remote branches, select the remote branch that was just "pulled"
 
