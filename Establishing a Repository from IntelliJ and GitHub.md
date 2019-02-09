@@ -1,6 +1,6 @@
 
 
-## Establishing a Repository from Intellij and GitHub 
+## Establishing a Repository from IntelliJ and GitHub 
 
 1.  Open the project file in IntelliJ:  File->open-> (select project)
    
