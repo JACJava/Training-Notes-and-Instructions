@@ -1,4 +1,4 @@
-## Setting up IntelliJ to Work with Github 
+## Setting up IntelliJ to Work with GitHub 
 
 1.  Enable version control:  IntelliJ->Preferences
    
