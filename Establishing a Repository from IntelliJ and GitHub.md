@@ -35,6 +35,27 @@ Select directory where the new Git repository will be created:  (allow default)
 
 11.  Push to Github
 
+## To create a new project from a repository
+
+1.  Create a new project:  File->New->Project from Version Control->Git
+
+2.  Select the repository
+
+3.  Enter a file name on local drive
+
+4.  Click Clone
+
+5.  Expand the source code directory
+
+6.  Right-mouse click the src directory and click Mark Directory As, and then choose Source
+
+7.  Double click Main
+
+8.  Message will say "SDK not defined" and give you a "setup SDK" link to click
+
+9.  Add the "out" directory to the project structure as the Project compiler output in File->Project Structure
+
+
 
 
 
