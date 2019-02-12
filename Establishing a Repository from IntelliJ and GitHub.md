@@ -1,12 +1,10 @@
-
-
 ## Establishing a Repository from IntelliJ and GitHub 
 
 1.  Open the project file in IntelliJ:  File->open-> (select project)
 
 2.  Establish Git settings against the project:  File->Settings
 
-3.  Ignored Files:  Take the "out" directory off the ignore list (let it be committed).
+3.  Ignored Files:  Take the "out" directory off the ignore list (let it be committed as it will be needed).
 
 4.  Add the .idea directory to the ignored files
 
@@ -22,20 +20,20 @@
 
 10.  Click commit
    
-2.  Set Version Control against the project:  VCS->Import into Version Control->Create Git Repository 
+11.  Set Version Control against the project:  VCS->Import into Version Control->Create Git Repository 
     
 Select directory where the new Git repository will be created:  (allow default) 
 (e.g.) c:\users\...\ProjectName\src\com\pluralsight\ProjectName
     
-3.  Bottom frame will show Git: master as the local branch
+12.  Bottom frame will show Git: master as the local branch
 
-4.  Put on GitHub:  VCS->Import into Version Control->Share Project on GitHub (allow default repository name) and (allow default for initial commit)
+13.  Put on GitHub:  VCS->Import into Version Control->Share Project on GitHub (allow default repository name) and (allow default for initial commit)
 
-5.  Confirm repository is on GitHub and add a comment.
+14.  Confirm repository is on GitHub and add a comment.
 
-11.  Push to Github
+15.  Push to Github
 
-## To create a new project from a repository
+## To create a new project from a GitHub repository
 
 1.  Create a new project:  File->New->Project from Version Control->Git
 
