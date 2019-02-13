@@ -17,7 +17,7 @@ Select directory where the new Git repository will be created:  (allow default)
     
 12.  Bottom frame will show Git: master as the local branch
 
-13.  Put on GitHub:  VCS->Import into Version Control->Share Project on GitHub (allow default repository name) and (allow default for initial commit)
+13.  Put on GitHub (MAKE SURE SELECTION IS AT THE PROJECT LEVEL IN INTELLIJ!!):  VCS->Import into Version Control->Share Project on GitHub (allow default repository name) and (allow default for initial commit)
 
 7.  Select all "unversioned" files
 
