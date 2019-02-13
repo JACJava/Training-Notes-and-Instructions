@@ -9,16 +9,6 @@
 4.  Add the .idea directory to the ignored files
 
 5.  Add .iml files to the ignored file list
-
-6.  Commit the files:  VCS->Commit
-
-7.  Select all "unversioned" files
-
-8.  Unclick Perform code analysis
-
-9.  Add a commit message
-
-10.  Click commit
    
 11.  Set Version Control against the project:  VCS->Import into Version Control->Create Git Repository 
     
@@ -29,7 +19,15 @@ Select directory where the new Git repository will be created:  (allow default)
 
 13.  Put on GitHub:  VCS->Import into Version Control->Share Project on GitHub (allow default repository name) and (allow default for initial commit)
 
-14.  Confirm repository is on GitHub and add a comment.
+7.  Select all "unversioned" files
+
+8.  Unclick Perform code analysis
+
+9.  Add a commit message
+
+10.  Click commit
+
+14.  Confirm repository is on GitHub and add a descriptiong and a README.md
 
 15.  Push to Github
 
