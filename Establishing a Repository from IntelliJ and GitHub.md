@@ -12,12 +12,11 @@
    
 11.  Set Version Control against the project:  VCS->Import into Version Control->Create Git Repository 
     
-Select directory where the new Git repository will be created:  (allow default) 
-(e.g.) c:\users\...\ProjectName\src\com\pluralsight\ProjectName
+12.  Select directory where the new Git repository will be created:  (allow default) (e.g.) c:\users\...\ProjectName\src\com\pluralsight\ProjectName
     
-12.  Bottom frame will show Git: master as the local branch
+13.  Bottom frame will show Git: master as the local branch
 
-13.  Put on GitHub (MAKE SURE SELECTION IS AT THE PROJECT LEVEL IN INTELLIJ!!):  VCS->Import into Version Control->Share Project on GitHub (allow default repository name) and (allow default for initial commit)
+14.  Put on GitHub (MAKE SURE SELECTION IS AT THE PROJECT LEVEL IN INTELLIJ!!):  VCS->Import into Version Control->Share Project on GitHub (allow default repository name) and (allow default for initial commit)
 
 7.  Select all "unversioned" files
 
@@ -50,6 +49,10 @@ Select directory where the new Git repository will be created:  (allow default)
 8.  Message will say "SDK not defined" and give you a "setup SDK" link to click
 
 9.  Add the "out" directory to the project structure as the Project compiler output in File->Project Structure
+
+10.  Use the Branch pop-up on the bottom of the frame to select the appropriate branch.
+
+11.  Checkout as new Local Branch
 
 
 
