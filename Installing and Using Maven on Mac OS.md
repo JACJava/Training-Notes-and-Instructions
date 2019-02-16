@@ -8,28 +8,28 @@ Very helpful YouTube video here:  https://www.youtube.com/watch?v=j0OnSAP-KtU&vl
 
 3.  Put the following lines in the .bash_profile file:
 
-export M2_HOME=/Applications/apache-maven-3.4.5
-export PATH=$PATH:$M2_HOME/bin
+        export M2_HOME=/Applications/apache-maven-3.4.5
+        export PATH=$PATH:$M2_HOME/bin
 
 4.  Reload the .bash_profile file using the source command:  source .bash_profile
 
 5.  Test to see if Maven is loaded:  mvn - version
 
+# Instructions from the YouTube video:
 
-Instructions from the YouTube video:
-Download the Apache Maven bin.tar.gz file from http://maven.apache.org/download.cgi.
-Extract the distribution archive to  /Applications/apache-maven-3.4.5.
+        Download the Apache Maven bin.tar.gz file from http://maven.apache.org/download.cgi.
+        Extract the distribution archive to  /Applications/apache-maven-3.4.5.
 
-$ tar -xvf apache-maven-3.4.5-bin.tar.gz
+        $ tar -xvf apache-maven-3.4.5-bin.tar.gz
 
-Add the M2_HOME environment variable. Edit your ~/.bash_profile 
+        Add the M2_HOME environment variable. Edit your ~/.bash_profile 
 
-open -e ~/.bash_profile
+        open -e ~/.bash_profile
 
-Add the following exports
+        Add the following exports
 
-export M2_HOME=/Applications/apache-maven-3.4.5
-export PATH=$PATH:$M2_HOME/bin
+        export M2_HOME=/Applications/apache-maven-3.4.5
+        export PATH=$PATH:$M2_HOME/bin
 
 
 # Using Maven
