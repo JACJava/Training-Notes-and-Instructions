@@ -1,4 +1,4 @@
-#Installing Maven
+# Installing Maven
 
 Very helpful YouTube video here:  https://www.youtube.com/watch?v=j0OnSAP-KtU&vl=en
 
@@ -36,19 +36,19 @@ export PATH=$PATH:$M2_HOME/bin
 
 1.  Add the following dependencies to the pom.xml
 
-<dependencies>
-        <dependency>
-            <groupId>junit</groupId>
-            <artifactId>junit</artifactId>
-            <version>4.13-beta-1</version>
-            <scope>test</scope>
-        </dependency>
-        <dependency>
-            <groupId>org.hamcrest</groupId>
-            <artifactId>hamcrest-all</artifactId>
-            <version>1.3</version>
-        </dependency>
-</dependencies>
+        <dependencies>
+                <dependency>
+                        <groupId>junit</groupId>
+                        <artifactId>junit</artifactId>
+                        <version>4.13-beta-1</version>
+                        <scope>test</scope>
+                </dependency>
+                <dependency>
+                    <groupId>org.hamcrest</groupId>
+                    <artifactId>hamcrest-all</artifactId>
+                    <version>1.3</version>
+                </dependency>
+        </dependencies>
 
 2.  Add the following properties to the pom.xml
 
