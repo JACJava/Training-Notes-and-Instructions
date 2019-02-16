@@ -32,7 +32,7 @@ export M2_HOME=/Applications/apache-maven-3.4.5
 export PATH=$PATH:$M2_HOME/bin
 
 
-#Using Maven
+# Using Maven
 
 1.  Add the following dependencies to the pom.xml
 
@@ -52,10 +52,10 @@ export PATH=$PATH:$M2_HOME/bin
 
 2.  Add the following properties to the pom.xml
 
- <properties>
-        <maven.compiler.source>1.6</maven.compiler.source>
-        <maven.compiler.target>1.6</maven.compiler.target>
-</properties>
+        <properties>
+                <maven.compiler.source>1.6</maven.compiler.source>
+                <maven.compiler.target>1.6</maven.compiler.target>
+        </properties>
 
 3.  Make sure the following plugin is documented in the pom.xml
 
@@ -75,10 +75,10 @@ export PATH=$PATH:$M2_HOME/bin
                 </configuration>
             </plugin>
 
-4.  mvn clean test will run the tests
+4.  To compile and run tests:  mvn clean test
 
-5.  mvn clean package will create a .jar file inthe /target directory (but only if all tests pass)
+5.  To compile, run tests, and build .jar file in the \target directory:  mvn clean package
 
-6.  java -jar target/demo-1.0-SNAPSHOT.jar will run the program
+6.  Run the jar file:  java -jar target/demo-1.0-SNAPSHOT.jar
 
 
