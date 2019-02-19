@@ -57,7 +57,19 @@ Very helpful YouTube video here:  https://www.youtube.com/watch?v=j0OnSAP-KtU&vl
                 <maven.compiler.target>1.6</maven.compiler.target>
         </properties>
 
-3.  Make sure the following plugin is documented in the pom.xml (Mac os)
+3.  To get rid of the compiler warning, put the following version line in the compiler plugin:
+
+         <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-compiler-plugin</artifactId>
+                <version>3.1</version>
+                <configuration>
+                    <source>8</source>
+                    <target>8</target>
+                </configuration>
+            </plugin>
+
+3.  Make sure the following plugin is documented in the pom.xml (Mac os) to execute the jar file
 
           <plugin>
                 <!-- Build an executable JAR -->
@@ -75,7 +87,7 @@ Very helpful YouTube video here:  https://www.youtube.com/watch?v=j0OnSAP-KtU&vl
                 </configuration>
             </plugin>
             
-3.  Make sure the following plugin is documented in the pom.xml (Windows)
+3.  Make sure the following plugin is documented in the pom.xml (Windows) to execute the jar file
 
            <plugin>
                 <!-- Build an executable JAR -->
