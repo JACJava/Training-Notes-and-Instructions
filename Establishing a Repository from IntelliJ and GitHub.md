@@ -4,8 +4,6 @@
 
 2.  Establish Git settings against the project:  File->Settings
 
-3.  Ignored Files:  Take the "out" directory off the ignore list (let it be committed as it will be needed).
-
 4.  Add the .idea directory to the ignored files
 
 5.  Add .iml files to the ignored file list
@@ -48,20 +46,9 @@
 
 8.  Message will say "SDK not defined" and give you a "setup SDK" link to click
 
-9.  Add the "out" directory to the project structure as the Project compiler output in File->Project Structure
+9.  Create an "out" directory to the project structure as the Project compiler output in File->Project Structure
 
 10.  Use the Branch pop-up on the bottom of the frame to select the appropriate branch.
 
 11.  Checkout as new Local Branch
-
-
-
-
-
-   
-
-
-
-
-
 
