@@ -57,7 +57,7 @@ Very helpful YouTube video here:  https://www.youtube.com/watch?v=j0OnSAP-KtU&vl
                 <maven.compiler.target>1.6</maven.compiler.target>
         </properties>
 
-3.  Make sure the following plugin is documented in the pom.xml
+3.  Make sure the following plugin is documented in the pom.xml (Mac os)
 
           <plugin>
                 <!-- Build an executable JAR -->
@@ -74,7 +74,24 @@ Very helpful YouTube video here:  https://www.youtube.com/watch?v=j0OnSAP-KtU&vl
                     </archive>
                 </configuration>
             </plugin>
+            
+3.  Make sure the following plugin is documented in the pom.xml (Windows)
 
+           <plugin>
+                <!-- Build an executable JAR -->
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-jar-plugin</artifactId>
+                <version>2.4</version>
+                <configuration>
+                    <archive>
+                        <manifest>
+                            <mainClass>com.pluralsight.collections.Main</mainClass> (name of primary method to run)
+                        </manifest>
+                    </archive>
+                </configuration>
+            </plugin>
+            
+            
 4.  To compile and run tests:  mvn clean test
 
 5.  To compile, run tests, and build .jar file in the \target directory:  mvn clean package
