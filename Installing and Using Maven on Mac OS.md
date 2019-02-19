@@ -55,6 +55,8 @@ Very helpful YouTube video here:  https://www.youtube.com/watch?v=j0OnSAP-KtU&vl
         <properties>
                 <maven.compiler.source>1.6</maven.compiler.source>
                 <maven.compiler.target>1.6</maven.compiler.target>
+                 <!-- Gets rid of compiler encoding warning messages -->
+                <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         </properties>
 
 3.  To get rid of the compiler warning, put the following version line in the compiler plugin:
