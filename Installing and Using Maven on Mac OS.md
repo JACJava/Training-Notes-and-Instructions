@@ -87,7 +87,7 @@ Very helpful YouTube video here:  https://www.youtube.com/watch?v=j0OnSAP-KtU&vl
                 </configuration>
             </plugin>
             
-3.  Make sure the following plugin is documented in the pom.xml (Windows) to execute the jar file
+3.  Make sure the following plugin is documented in the pom.xml (Windows) to execute the jar file (Maven is an earlier version on my Windows machine).
 
            <plugin>
                 <!-- Build an executable JAR -->
