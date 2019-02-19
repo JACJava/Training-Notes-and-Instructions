@@ -12,9 +12,9 @@
 
 6.  If not a maven project, right-mouse click on the src directory and click Mark Directory As, and then choose Source
 
-6.  If a maven project, right-mouse click on the java directory and click Mark Directory As, and then choose Source
-t
-7.  If a maven project, right-mouse click on the test directory and click Mark Directory As, and then choose Test Sources Root
+6.  If a maven project, right-mouse click on the src/main/java directory and click Mark Directory As, and then choose Sources Root
+
+7.  If a maven project, right-mouse click on the src/test/java directory and click Mark Directory As, and then choose Test Sources Root
 
 7.  Double click Main
 
