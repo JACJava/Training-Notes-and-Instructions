@@ -11,8 +11,6 @@
 
 5.  Bottom of frame will show new branch name in use
 
-6.  Make coding changes to the branch
-
 7.  Commit changes in IntelliJ: VCS->Commit
 
 8.  Add a commit message
@@ -23,9 +21,9 @@
 
 11.  Confirm branch is on Github
 
-12.  Note:  sometimes it is helpful to create the new branch/commit/push then make the coding changes (add in the new code directories) and then recommit and repush.
+11.  Make coding changes (add in directories to project structure).
 
-
+13.  Re-commit and Re-push
 
 
 
