@@ -23,6 +23,8 @@
 
 11.  Confirm branch is on Github
 
+12.  Note:  sometimes it is helpful to create the new branch/commit/push then make the coding changes (add in the new code directories) and then recommit and repush.
+
 
 
 
