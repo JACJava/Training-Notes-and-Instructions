@@ -1,3 +1,5 @@
+## 3/26/2019 Java Book Store Showing Edit form Completed
+## 3/26/2019 Java Book Store Deleting Books from a Database completed
 ## 3/22/2019 Java Book Store continued
 ## 3/21/2019 Java Book Store started
 ## 3/18/2019 Pluralsight Projects completed
