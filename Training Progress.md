@@ -1,4 +1,4 @@
-### 3/29/2019 FINISHED PLURALSIGHT JAVA PATH (BEGINNER) -- NOW ON TO INTERMEDIATE!!!
+# 3/29/2019 FINISHED PLURALSIGHT JAVA PATH (BEGINNER) -- NOW ON TO INTERMEDIATE!!!
 ## 3/29/2019 Java Book Store Shopping Cart Completed
 ## 3/27/2019 Java Book Store Updating a Book in a Database
 ## 3/26/2019 Java Book Store Showing Edit form Completed
