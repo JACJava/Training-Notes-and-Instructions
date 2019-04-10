@@ -1,3 +1,4 @@
+## 4/10/2019 Creating Our First JSP Page
 ## 4/08/2019 But first, doing Java:  Creating a Basic Web App
 # 3/29/2019 FINISHED PLURALSIGHT JAVA PATH (BEGINNER) -- NOW ON TO INTERMEDIATE!!!
 ## 3/29/2019 Java Book Store Shopping Cart Completed
