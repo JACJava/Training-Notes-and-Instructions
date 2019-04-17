@@ -1,4 +1,6 @@
-## 4/12/2019 Continue Creating Our First JSP Page continued
+## 4/16/2019 Started Connecting Our App to a Database
+## 4/15/2019 Completed Creating Our First JSP Page
+## 4/12/2019 Continue Creating Our First JSP Page
 ## 4/11/2019 Creating Our First JSP Page continued
 ## 4/10/2019 Creating Our First JSP Page
 ## 4/08/2019 But first, doing Java:  Creating a Basic Web App
