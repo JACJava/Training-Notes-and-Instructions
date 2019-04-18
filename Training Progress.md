@@ -1,3 +1,4 @@
+## 4/18/2019 Completed Connecting Our App to a Database
 ## 4/16/2019 Started Connecting Our App to a Database
 ## 4/15/2019 Completed Creating Our First JSP Page
 ## 4/12/2019 Continue Creating Our First JSP Page
