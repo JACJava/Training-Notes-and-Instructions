@@ -2,7 +2,7 @@
 
 1.  Open GitHub desktop
    
-2.  File->New Repository
+2.  File->New Repository (may also have to use File->Add Repository if source already exists).
 
 3.  Example:  C:\Users\Julie\eclipse-workspace\BookStore
 
