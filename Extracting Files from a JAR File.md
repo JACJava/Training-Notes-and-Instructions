@@ -1,4 +1,4 @@
-##Extracting Files from a JAR File
+##13.  Extracting Files from a JAR File
 
 1.  Open a command line with administrator rights
 
