@@ -1,0 +1,11 @@
+##13.  Creating an Oracle Database
+
+Download Oracle Express and run Setup.exe (takes several hours)
+
+Download Oracle SQLCL (command line)
+
+Open up SQLcl command line
+
+Username is SYSTEM
+
+Password is usual
