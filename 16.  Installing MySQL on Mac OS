@@ -1,0 +1,26 @@
+#16.  Installing MySQL on Mac OS
+
+Very helpful YouTube video here:  https://www.youtube.com/watch?reload=9&v=UcpHkYfWarM
+
+1.  Download MySQL Server from https://dev.mysql.com/downloads/file/?id=485470
+
+2.  Update the .bash_profile file in home directory (command is:  open .bash_profile):
+
+        export PATH=${PATH}:/usr/local/mysql/bin/
+
+4.  Reload the .bash_profile file using the source command:  source .bash_profile
+
+5.  mysql -u root -p
+
+6.  <enter password>
+
+7.  To change password:  ALTER USER 'root'@'localhost' IDENTIFIED BY '<new pwd>';
+
+8.  Download MySQL Workbench
+
+9.  Copy to Applications
+
+10.  Log in with root password
+
+11.  Note:  to see if MySQL is running Apple->System Preferences->MySQL
+
