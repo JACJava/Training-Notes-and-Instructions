@@ -24,3 +24,11 @@ Very helpful YouTube video here:  https://www.youtube.com/watch?reload=9&v=UcpHk
 
 11.  Note:  to see if MySQL is running Apple->System Preferences->MySQL
 
+12.  Had to set SET GLOBAL time_zone = '-6:00'; to avoid compilation error with java program...didn't need to do this in Windows, so confusing.
+
+13.  Alternative way of solving was to do this, but I didn't like hardcoding the timezone in the program:
+
+private String jdbcURL = "jdbc:mysql://localhost:3306/book_store?serverTimezone=CST6CDT"
+
+
+
