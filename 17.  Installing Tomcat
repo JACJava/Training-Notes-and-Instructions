@@ -1,0 +1,15 @@
+#17.  Installing Tomcat
+
+Very helpful YouTube video here:  https://www.youtube.com/watch?v=h_qQOVDTxo8
+
+1.  Download Apache Tomcat and install
+
+2.  For Mac OS, open a terminal and navigate to users/xxx/servers/apache-tomcat-9.0.20/bin
+
+3.  Follow chmod command to make all .sh files executable
+
+4.  ./startup.sh (check localhost:8080 from a browser) or ./shutdown.sh
+
+5.  ./catalina.sh start or ./catalina.sh stop
+
+6.  For windows, add CATALINA_HOME as an environment variable and add the bin directory to the path.
