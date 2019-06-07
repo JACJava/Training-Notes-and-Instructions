@@ -1,0 +1,13 @@
+#18.  Using GitHub Desktop
+
+Assume creating project from scratch:
+
+1.  Create file directory under eclipse-workspace or ideaprojects
+
+2.  Create/copy .gitignore
+
+3.  In Intellij, File->New->Project from Existing Sources
+
+4.  In Eclipse, <need to fill in>
+
+5.  In GitHub Desktop, File->Add Local Repository
